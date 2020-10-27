@@ -1,5 +1,8 @@
-### Hi there 👋
-# Elver Tunubala
+### Hola a todos,  soy  👋
+# Elver Tunubala Yalanda
+### soy del departamento del Cauca, pertenezco a una comunidad indigena ( Misak ) del municipio de Silvia.
+### Soy tecnico en sistemas del Sena, tengo conocimientos basicos en lenguajes de programacion como phyton y java.
+### Me gusta todo lo que se relaziona con la tecnologia, soy muy curioso eh investigo mucho los temas que no entiendo o me llaman la atencion.
 
 <!--
 **ElverTunubala/ElverTunubala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
